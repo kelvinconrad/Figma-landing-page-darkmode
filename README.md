@@ -25,8 +25,9 @@ You will find all the required images in the `/images` folder. Youn can Optimize
 Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
 
 1. Clone the Repo (https://github.com/kelvinconrad/Figma-landing-page-darkmode.git)
-2. Create a new folder on your pc and copy the Project-File folder to your new created folder
-3. Start the project
+2. Start the project
+3. To host your Project you can use any services which are free eg: [Githubpages](https://pages.github.com/), [Zeit](https://vercel.com/), or [Netlify](https://www.netlify.com/). Personally i use Netlify.
+4. **After finishing your project you can share it dev.to community by using the [#frontendchallenge](https://dev.to/t/frontendchallenge) hashtag**
 
 **Have fun building!** 🚀
 
