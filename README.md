@@ -1,6 +1,6 @@
 # Figma-landing-page-darkmode
 
->Front end Challenge 1
+>Front end Challenge 2 this is series of frontend challenge that am doing at [Dev.to Community](https://dev.to/t/frontendchallenge)
 ![](banner.png)
 
 ## Welcome! 👋
