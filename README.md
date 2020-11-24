@@ -16,7 +16,7 @@ Your task is to build out this landing page and get it looking as close to the d
 
 The designs are in Png with no backgound. This will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. This should help train your eye to perceive differences in spacings and sizes.
 
-The Design file(figma) is included in order to inspect the design in more detail you can [Check the Design Here](https://www.figma.com/file/3aS02Hza1dUAUzXfQ193nf/Figma-startup-landing-page-dark-Template?node-id=0%3A1).
+The Design file(figma) is included in order to inspect the design in more detail you can [Check the Design Here](https://www.figma.com/file/tOgQVsBPqI2BvnNHluHnYO/Figma-startup-landing-page-dark-Community?node-id=0%3A3517).
 
 You will find all the required images in the `/images` folder. Youn can Optimize the image if Needed.
 
